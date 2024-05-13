@@ -13,12 +13,14 @@ Sample của chúng ta là 1 file .docm và chúng ta phải điều tra xem nó
 việc thực thi các tác vụ tự động, và kẻ xấu có thể chỉnh sửa đoạn code này cho mục đích xấu
 
 Đầu tiên, mình sử dụng **olevba.py** để extract toàn bộ VBA code:
+
 <details>
 <summary>
-	The decompiled output
+	VBA code nè
 </summary>
+	
 ```
-  Function zzz(troll As String) As String
+Function zzz(troll As String) As String
     Dim aaa As String
     Dim bbb As String
     Dim ccc As String
