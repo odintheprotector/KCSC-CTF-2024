@@ -1,5 +1,4 @@
-Hello cả nhà, đợt vừa rồi mình được 1 anh trai siêu tốt bụng cho mượn nick để chơi KCSC CTF 2024, nên hôm nay mình muốn viết writeup tất cả những bài mình giải được
-và đây là năm đầu tiên mình có cơ hội tham gia giải CTF của trường mà mình đã trượt NV1 😔😔. Thui hong buồn nữa, bắt đầu nè!!!
+Hello cả nhà, đợt vừa rồi mình được 1 anh trai siêu tốt bụng cho mượn nick để chơi KCSC CTF 2024 và rất may mắn là mình đã giải được 2/3 forensic challenges của họ, nên hôm nay mình muốn viết writeup tất cả những bài mình giải được. Đây là năm đầu tiên mình có cơ hội tham gia giải CTF của ngôi trường mà mình đã trượt hồi thi đại học 😔😔😔, tham gia để học hỏi là chính thui. Thui, bắt đầu nha!
 
 ### Externet Inplorer
 
