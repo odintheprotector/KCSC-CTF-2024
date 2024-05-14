@@ -5,7 +5,7 @@ và đây là năm đầu tiên mình có cơ hội tham gia giải CTF của tr
 
 Bài cho chúng ta 1 đường link và yêu cầu chúng ta tìm timestamp của nó khi được search. Challenge này khá là dễ, các bạn chỉ cần sử dụng [tool](https://dfir.blog/unfurl/) là ra nha :3 
 
-**KCSC{2023-09-18_08:32:22.547027}**
+**Flag: KCSC{2023-09-18_08:32:22.547027}**
 
 ### Jumper In Disguise
 
@@ -167,6 +167,8 @@ python solve.py <ném chuỗi vô nè>
 ```
 
 ![image](https://github.com/odintheprotector/KCSC-CTF-2024/assets/75618225/39397cd9-4634-44cb-bfa2-bf0b3958f377)
+
+**Flag: KCSC{I_@m_daStomp_dat_1z_4Ppr0/\ch1n9!}**
 
 Cảm ơn các bạn đã xem, mình chơi forensic là chủ yếu nên là có giải nào có forensic là mình phải chơi cho bằng được 😊. Cảm ơn KCSC đã tổ chức 1 cuộc thi hay và gay cấn đến như vậy!!!! Bye bye, hẹn mọi người ở writeup tiếp theo nha 😊😊😊
 
